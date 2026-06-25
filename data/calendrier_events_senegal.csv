@@ -1,4 +1,5 @@
 ds,holiday,lower_window,upper_window
-2026-02-18,Debut_Ramadan,0,30
-2026-03-20,Korite,-1,1
-2026-05-24,Tabaski,-1,1
+2026-02-18,Ramadan_Debut,0,30
+2026-03-20,Korite,-2,2
+2026-04-04,Fete_Independance,0,0
+2026-05-25,Tabaski,-2,2
